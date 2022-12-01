@@ -23,7 +23,6 @@ pipeline {
 				sh 'test/run.sh'
 			}
 		}
+	}
+}	
 
-	}
-	}
-}
